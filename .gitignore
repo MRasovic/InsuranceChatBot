@@ -1,0 +1,20 @@
+# Ignore IDE files
+.idea/
+
+# Ignore Python cache
+__pycache__/
+
+# Ignore virtual environment
+venv/
+
+# Ignore model files
+*.h5
+*.keras
+*.weights
+
+# Ignore zips and weights folders
+zips/
+products_weights_vocabs/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
